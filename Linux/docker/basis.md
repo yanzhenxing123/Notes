@@ -78,7 +78,7 @@
 
 ## 常用的其他命令
 
-### 后台启动容器
+### 后台启动容器dock
 
 ![image-20200825195941978](https://cdn.jsdelivr.net/gh/yanzhenxing123/blogImg@master/typora202008/25/203618-540686.png)
 
@@ -302,6 +302,8 @@ docker inspect dbdbad0077ad
 ```
 
 ### 进入当前正在运行的容器
+
+`docker exec -it 容器id /bin/bash`
 
 ![image-20200825201034111](https://cdn.jsdelivr.net/gh/yanzhenxing123/blogImg@master/typora202008/25/201034-301434.png)
 

@@ -14,7 +14,7 @@
 ## 临时使用
 
 可以在使用pip的时候加参数`-i https://pypi.tuna.tsinghua.edu.cn/simple`
- 例如：`pip install -i http://mirrors.aliyun.com/pypi/simple/ tensorflow`，这样就会从阿里云这边的镜像去安装tensorflow库。
+ 例如：`pip install -i https://mirrors.aliyun.com/pypi/simple/ tensorflow`，这样就会从阿里云这边的镜像去安装tensorflow库。
 
 ## 永久使用
 
