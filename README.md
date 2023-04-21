@@ -1,1 +1,1 @@
-This repository is some of my life essays and study notes
+Here are my study notes.
